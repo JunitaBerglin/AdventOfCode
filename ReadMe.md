@@ -1,2 +1,1 @@
-# Advent of code together with Julia
-
+# Advent of code together with Julia.
